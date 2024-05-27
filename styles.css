@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    align-items: center;
+}
+
+h1 {
+    color: #058;
+    font-family: sans-serif;
+    font-size: 100px;
+    width: 50px;
+    height: 50px;
+    margin-left: 30%;
+}
+
+p {
+    color: #058;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    margin-top: 10%;
+    margin-left: 20%;
+}
+img {
+    width: 500px;
+    height: 500px;
+    margin-left: 25%;
+}
